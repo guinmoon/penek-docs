@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://guinmoon.github.io/penek-docs/blog</id>
-    <title>Eightshift Development kit Blog</title>
+    <title>LLM Farm Blog</title>
     <updated>2024-03-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://guinmoon.github.io/penek-docs/blog"/>
-    <subtitle>Eightshift Development kit Blog</subtitle>
+    <subtitle>LLM Farm Blog</subtitle>
     <icon>https://guinmoon.github.io/penek-docs/img/icon/apple-touch-icon.png</icon>
     <entry>
         <title type="html"><![CDATA[Using post templates]]></title>

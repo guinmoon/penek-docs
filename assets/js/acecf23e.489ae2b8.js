@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_eightshift_docs=self.webpackChunk_eightshift_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/penek-docs/blog","blogTitle":"LLM Farm news and updates"}')}}]);
